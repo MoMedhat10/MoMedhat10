@@ -1,8 +1,8 @@
-# ⚡ Hey, I'm Mohamed Medhat — Frontend Engineer ⚡
+# ⚡ Hey, I'm Mohamed Medhat — Full Stack Engineer ⚡
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=React+%E2%80%A2+TypeScript+%E2%80%A2+UI%2FUX+%E2%80%A2+Animations;Building+Fast+%26+Beautiful+Web+Experiences;Clean+Architecture+Enthusiast;Pixel-Perfect+Component+Engineering)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%E2%80%A2+MERN+Stack;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Building+Fast+%26+Beautiful+Web+Experiences;Clean+Architecture+Enthusiast;Pixel-Perfect+Component+Engineering)
 
 </div>
 
@@ -10,11 +10,13 @@
 
 ## 🔥 About Me
 
-I'm a Frontend Engineer who loves creating **fast, modern and beautifully crafted UI**. I focus on React, TypeScript, animations, and scalable component architecture.
+I'm a Full Stack Engineer who loves building **fast, modern, and beautifully crafted web apps** from frontend to backend. I work across the entire MERN stack — from pixel-perfect UIs to robust APIs and databases.
 
 ```typescript
 const mohamed = {
-  expertise: ["React", "TypeScript", "UI/UX", "Animations"],
+  role: "Full Stack Engineer",
+  stack: ["MongoDB", "Express", "React", "Node.js"],
+  expertise: ["React", "TypeScript", "UI/UX", "Animations", "REST APIs"],
   passions: ["Pixel-perfect design", "Clean code", "User experience"],
   currentlyLearning: "Advanced animation techniques & 3D web experiences",
   funFact: "I believe great UI is invisible — users just feel it works"
@@ -25,11 +27,12 @@ const mohamed = {
 - 🎨 Strong **UI/UX design systems**
 - 🚀 Pixel-perfect **component engineering**
 - 🧩 Smooth animations (**Framer Motion · GSAP**)
-- 🌐 Comfortable with **backend basics**
+- 🛠️ Full backend with **Node.js, Express & MongoDB**
+- 🌐 End-to-end **MERN stack** development
 
 ---
 
-## 🎨 Frontend Tech Stack
+## 🎨 Tech Stack
 
 <div align="center">
 
@@ -55,6 +58,14 @@ const mohamed = {
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
 
+### Backend & Database (MERN)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
 </div>
 
 ---
@@ -71,8 +82,8 @@ const mohamed = {
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -81,38 +92,29 @@ const mohamed = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedmedhat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedmedhat&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F97316&currStreakLabel=C9D1D9)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmedhat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9)
+
+ 
+
+  <br/>
+
+  <img width="60%" src="https://streak-stats.demolab.com/?user=MoMedhat10&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F97316&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 
 </div>
 
+---
 
-
-
-<!-- =============================================================== -->
-<!-- 🔥 NEW COOL SECTION #2 – Activity Graph -->
-<!-- =============================================================== -->
-
-<h2 style="color:#00eaff; text-shadow:0 0 10px #00eaff;">📈 GitHub Activity Graph</h2>
+## 📈 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoMedhat10&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoMedhat10&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
-<hr style="border: 1px solid #ff00ff; box-shadow: 0 0 8px #ff00ff;" />
+---
 
-<!-- =============================================================== -->
-<!-- 🔥 NEW COOL SECTION #3 – 3D Contribution Graph -->
-<!-- =============================================================== -->
-
-<h2 style="color:#ff00ff; text-shadow:0 0 10px #ff00ff;">🧊 3D Contribution Graph</h2>
+## 🧊 3D Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </div>
 
 ---
@@ -136,6 +138,10 @@ mindmap
       3D Web Experiences
       Scroll Animations
       Physics-based Motion
+    Backend & MERN
+      REST API Design
+      MongoDB & Mongoose
+      Authentication & JWT
     Architecture
       Clean Code
       Testing Strategies
@@ -143,10 +149,6 @@ mindmap
 ```
 
 </div>
-
----
-
-
 
 ---
 
@@ -161,8 +163,9 @@ mindmap
 | **Styling** | Tailwind, Styled-Components, CSS | ████████░░ 85% |
 | **Animations** | Framer Motion, GSAP, Three.js | ███████░░░ 75% |
 | **State Management** | Redux, Zustand, React Query | ████████░░ 80% |
+| **Backend** | Node.js, Express, REST APIs | ████████░░ 80% |
+| **Database** | MongoDB, Mongoose | ███████░░░ 75% |
 | **Testing** | Jest, Testing Library, Cypress | ██████░░░░ 65% |
-| **Backend** | Node.js, Express, REST APIs | ██████░░░░ 60% |
 
 </div>
 
@@ -198,8 +201,6 @@ mindmap
 
 ### 💭 Dev Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
 
 ---
 
